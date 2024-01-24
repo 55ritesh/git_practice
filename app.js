@@ -1,0 +1,8 @@
+int var;
+
+
+
+
+
+
+int ritesh;
